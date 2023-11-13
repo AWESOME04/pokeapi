@@ -25,7 +25,7 @@ Charizard               |  Blastoise  |  Venusaur
 
 ## Demo
 
-You can see it deployed [here](https://onnichan.github.io/pokeapi-react/) 👈
+## You can see it deployed [here](https://onnichan.github.io/pokeapi-react/) 👈
 
 ## Do you want to use or run this project locally?
 
@@ -35,7 +35,7 @@ Just follow this steps:
   <li>In your system console write </li>
   
   `git init`<br/>
-  `git clone https://github.com/Onnichan/pokeapi-react.git`
+  `git clone https://github.com/TRESTLE-ACADEMY-GHANA-LBG/pokedex-AWESOME04.git`
 
   <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
   
@@ -49,6 +49,4 @@ Just follow this steps:
 
 
 ## Contact
-You can follow me on my [Linkedin](https://www.linkedin.com/in/walter-daniel-huaynapata-aguilar-391041197/).
-
-
+You can follow me on my [Linkedin](https://www.linkedin.com/in/evans-acheampong).
