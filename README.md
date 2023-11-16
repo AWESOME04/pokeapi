@@ -1,6 +1,6 @@
 # POKEAPI ![Pokebola](https://cdn.emojidex.com/emoji/px32/Pokebola.png "Pokebola")
 
-In this project we I a Pokedex to show the info of a pokemon, searching by its name. To get this info we use an API to bring the data from [pokeapi](https://pokeapi.co)
+In this project I use Pokedex to show the info of a pokemon, searching by its name. To get this info we use an API to bring the data from [pokeapi](https://pokeapi.co)
 
 
 ## Technologies
