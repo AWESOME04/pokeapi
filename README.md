@@ -50,4 +50,5 @@ Just follow this steps:
 
 ## Contact
 LinkedIn: [Linkedin](https://www.linkedin.com/in/evans-acheampong)
+
 email: evansachie01@gmail.com
