@@ -49,4 +49,5 @@ Just follow this steps:
 
 
 ## Contact
-You can follow me on my [Linkedin](https://www.linkedin.com/in/evans-acheampong).
+LinkedIn: [Linkedin](https://www.linkedin.com/in/evans-acheampong)
+email: evansachie01@gmail.com
